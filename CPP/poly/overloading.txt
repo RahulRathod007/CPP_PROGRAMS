@@ -1,0 +1,66 @@
+February Batch Today's Practical Task...	
+	
+Q1. Write a cpp program to create class name as Area using function overloading name as :
+
+	void calArea(int)
+	{
+		//  calculate area of circle.
+	}
+	
+	void calArea(int , int)
+	{
+		//  calculate area of reactangle.
+	}
+	
+	void calArea(int , int)
+	{
+		//  calculate area of triangle.
+	}	
+	
+Q2. Write a cpp program to create class name ReverseApp using function overloading name as :
+
+	void reverseArray(int [ ])
+	{
+		//  perform integer reverse array logic.
+	}
+	
+	void reverseArray(char [ ])
+	{
+		//  perform string reverse logic.
+	}
+	
+Q3. Write a cpp program to create class name as OccurenceApp using function overloading name as :
+
+	void countFrequency(int [ ])
+	{
+		//  count even and odd number in array.
+	}
+	
+	void countFrequency(char [ ])
+	{
+		//  count vowel and consonent charcter in string.
+	}
+
+Q4. Write a cpp program to create class name as ArrayOperationApp using function overloading name as :
+
+	void arrayOperation(int [ ])
+	{
+		//  Sort Array Ascending and Descending Order.
+	}
+	
+	void arrayOperation(int a[ ] , int b[ ])
+	{
+		//  Merge Two Array and display it.
+	}
+	
+Q5. Write a cpp program to create class name as UnionApp using function overloading name as :
+
+	void arrayOpe(int [ ])
+	{
+		//  Check array is Majority or Not.
+	}
+	
+	void arrayOpe(int a[ ] , int b[ ])
+	{
+		//  Check Array Is Union or Not.
+	}
